@@ -1,0 +1,44 @@
+h1 {
+    text-align: center;
+}
+a {
+    text-decoration: none;
+}
+li {
+    list-style: none;
+}
+.rectangulo{
+    width: 100px; ;
+    height: 50px;
+    background-color: rgb(226, 103, 124) ;
+    border-radius: 20% ;
+    text-align: center;
+    line-height: 50px;
+
+}
+.navtitulos {
+    color: rgb(255, 255, 255);
+}
+h1 {
+    color: blue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.textoazul {
+    color: rgb(15, 9, 133);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.textorojo {
+    color: rgb(193, 15, 15);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.textonegro {
+    color: rgb(38, 38, 38);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.h1rojo {
+    color: rgb(155, 16, 16);
+}

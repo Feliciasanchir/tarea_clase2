@@ -1,0 +1,55 @@
+h1 {
+    background-color: rgb(245, 230, 132);
+    color: rgb(130, 21, 21);
+    text-align: center;
+    font-size: 100px;
+}
+.rectangulo {
+   background-color: rgb(15, 102, 15); 
+   width: 100px;
+   height: 50px;
+   border-radius: 20%;
+   text-align: center;
+   line-height: 50px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   margin: 0 auto;
+    list-style: none;
+    line-height: 50px;
+}
+a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.pindex {
+    text-align: center;
+}
+.entradaslista {
+list-style-type: symbols(ඞ);
+padding: 0;
+max-width: 500px;
+
+}
+.entradaslista li {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0;
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    
+
+    }
+.precio {
+    color: rgb(202, 24, 24);
+    font-weight: bold;
+}
+h2 {
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-weight: bold;
+}
+
